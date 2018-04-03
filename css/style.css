@@ -1,0 +1,196 @@
+.text-article{
+
+	font-size: 20px;
+	padding-top: 10px;
+	text-align: center;
+	font-style: normal;
+	background-image: url(https://wallpapercave.com/wp/SbaPLTm.jpg);
+	background-attachment:fixed;
+	background-size: 100%;
+	color: white;
+	background-position: top;
+}
+
+.text-article1{
+	font-size: 20px;
+	padding-top: 10px;
+	text-align: center;
+	font-style: normal;
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/2000px-Star_Wars_Logo.svg.png);
+	background-attachment:fixed;
+	background-size: 80%;
+	color: white;
+	background-position: top;
+
+}
+
+.main-title{
+
+margin-top: 40px;
+text-align: center;
+font-size: 40px;
+font-weight: 600;
+padding-bottom: 20px;
+color: white;
+}
+
+.container{
+
+	margin-top: 80px;
+}
+
+.main-block{
+	text-align: center;
+	font-size: 30px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	color: white;
+}
+
+.gallery{
+
+	padding: 10px;
+}
+
+.row1{
+
+	text-align: center;
+}
+
+.RVT{
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+iframe{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+body{
+
+	background-image:url(https://i.pinimg.com/originals/02/04/c4/0204c4d204d07667f789cdb6ef3ac11a.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size: 100%;
+	height: 100%;
+}
+
+.footer{
+	font-size: 15px;
+	padding-top: 10px;
+	background-color: black;
+	text-align: center;
+	color: white;
+}
+
+.main1{
+	padding-top: 20px;
+}
+
+.table thead tr th{
+	text-align: center;
+}
+
+.table tbody tr td{
+	font-size: 17px;
+}
+
+.form{
+	width: 50%;
+	margin: 50px auto;
+}
+
+.feedback-input{
+	background-color: transparent;
+	color: white;
+	font-weight: 300;
+	font-size: 17px;
+	line-height: 22px;
+	padding: 7px;
+	padding-top: 10px;
+	margin-bottom: 10px;
+	border: 0px solid transparent;
+	width: 100%;
+	border-bottom: 1px solid #000;
+}
+
+.feedback-input2{
+	background-color: transparent;
+	color: white;
+	font-weight: 300;
+	font-size: 17px;
+	line-height: 22px;
+	padding: 7px;
+	margin-bottom: 10px;
+	border: 0px solid transparent;
+	width: 50%;
+	border-bottom: 1px solid #000;
+}
+
+.feedback-input1{
+	background-color: transparent;
+	color: white;
+	font-weight: 300;
+	font-size: 17px;
+	line-height: 22px;
+	padding: 7px;
+	margin-bottom: 10px;
+	border: 0px solid transparent;
+	width: 15%;
+	border-bottom: 1px solid #000;
+}
+
+textarea{
+	width: 100%;
+	height: 100px;
+	resize: vertical;
+	background-color: transparent;
+	border-color: black;
+	text-decoration-color: white;
+}
+
+.button-submit{
+	background-color: #000;
+	float: left;
+	width: 50%;
+	align-items: center;
+	border: 0px solid transparent;
+	cursor: pointer;
+	font-size: 17px;
+	color: white;
+	padding-top: 10px;
+	margin-left: 155px;
+	padding-bottom: 10px;
+	transition: all 0.3s;
+	margin-top: -5px;
+}
+
+.button-submit:hover{
+	color: cyan;
+	border: 1px solid #000;
+}
+
+.ease{
+	width: 0px;
+	height: 74px;
+	background-color: #fbfbfbfb;
+	transition: .3 ease;
+}
+
+
+.gadi{
+	font-size: 17px;
+	padding-bottom: 10px;
+	color: white;
+}
+
+.jaut1{
+	padding-bottom: 5px;
+color: white;
+font-size: 17px;
+}
+
+.jaut2{
+	padding-bottom: 15px;
+}

@@ -1,0 +1,175 @@
+.left{
+
+	background-color: none;
+	height: 100%;
+	width: 100px;
+	float: left;
+	color: white;
+	text-align: center;
+	background-image: url(https://media.giphy.com/media/xThtavREwfFZnWvEk0/giphy.gif);
+	background-position: center;
+}
+
+.right{
+
+	background-color: none;
+	width: 100px;
+	height: 100%;
+	float: left;
+	color: white;
+	text-align: center;
+	background-image: url(https://media.giphy.com/media/xUOwG6mRjZfw6iqCys/giphy.gif);
+	background-position: center;
+}
+
+.footer{
+
+	background-color: black;
+	clear: both;
+	text-align: center;
+	color: white;
+}
+
+.menu{
+
+	margin-top: 30px;
+	margin-bottom: 0px;
+	width: auto;
+	padding-left: 0px;
+	display: block;
+
+}
+
+.mainbox{
+
+	background-color: none;
+	display: table;
+	margin: 0px auto;
+	height: 100%;
+	width: 800px;
+	text-align: justify;
+}
+
+.menu ul{
+
+ background-color: black;
+ padding-left: 0px;
+ padding-right: 0px;
+ text-align: center;
+ line-height: 2.0;
+}
+
+.menu ul li{
+
+ display: inline;
+ padding-left: 20px;
+}
+
+.menu ul li a{
+
+ text-decoration: none;
+ color:white;
+ font-size: 19px;
+}
+
+html, body{
+
+	height: 100%;
+	background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/N69pMl5/stars-rotating-north-pole-star-night-sky-polaris-4k-time-lapse_rfozfpar_thumbnail-full01.png);
+	background-position: center;
+}
+
+.main{
+
+	height: 100%;
+	width: 800px;
+	padding: auto;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+h1{
+
+	text-align: center;
+	padding-bottom: 20px;
+	font-size: 30px;
+	color: black;
+}
+
+.header{
+
+	font-size: 30px;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: white;
+}
+
+.logo1{
+
+	display: inline-block;
+  	width: 100%;
+    text-align: center;
+    filter: opacity(.75);
+}
+
+h2{
+
+	text-align: center;
+	margin-bottom: 15px;
+	margin-top: 10px;
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+
+.RVT1
+{
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.map1{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.bildes a {
+	display: inline-block;
+	padding: 15px;
+}
+
+.bildes{
+	text-align: center;
+}
+
+.picture{
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+.sw_video{
+	text-align: center;
+}
+
+.sw_7{
+	padding-top: 15px;
+	padding-bottom: 5px;
+}
+
+.sw_8{
+padding-top: 0px;
+	padding-bottom: 5px;
+}
+
+.sw_solo{
+	padding-top: 15px;
+	padding-bottom: 5px;
+}
