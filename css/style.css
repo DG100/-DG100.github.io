@@ -70,13 +70,10 @@ iframe{
 body{
 
 	background-image: url(https://i.pinimg.com/originals/02/04/c4/0204c4d204d07667f789cdb6ef3ac11a.jpg);
-	background-repeat:no-repeat;
+	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: 100%;
-	-webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
+	height: 1000px;
 }
 
 .footer{
