@@ -24,6 +24,14 @@
 
 }
 
+.main{
+	text-align: center;
+	font-size: 48px;
+	color: white;
+	font-family: cursive;
+	font-style: italic;
+}
+
 .main-title{
 
 margin-top: 40px;
